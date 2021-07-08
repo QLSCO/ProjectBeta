@@ -8,3 +8,4 @@
   * Set deadlines
   * Create account to keep track
   * Receive situation-based alerts (i.e: deadline approaching)
+* Implement different features along with the to-do app
